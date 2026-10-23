@@ -3,6 +3,7 @@
 **Path:** Pre Security
 **Section:** Introduction to Cyber Security
 **Date:** [10/23/2026]
+**Room Link:**[Offensive Security Intro] (https://tryhackme.com/room/offensivesecurityintrokKx12)
 
 ## OverView
 Offensive Security means thinking like an attacker to find weaknesses in a system before a real attacker does.
