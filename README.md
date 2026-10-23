@@ -1,2 +1,10 @@
 # tryhackme-notes
-My TryHackMe learning journey
+My learning journey in Cybersecurity through TryHackMe.
+I document what I learn in each room to build real understanding, not just complete tasks.
+
+## Progress
+
+### Pre Security Path
+- [x] [Offensive Security Intro]
+- [ ] Defensive Security Intro
+- [ ] Careers in Cyber
