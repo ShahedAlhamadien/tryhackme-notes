@@ -3,7 +3,7 @@
 **Path:** Pre Security  
 **Section:** Introduction to Cyber Security  
 **Date:** 10/25/2026  
-**Room Link:** [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
+**Room Link:** [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro) .
 
 ## Overview
 
