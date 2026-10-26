@@ -6,5 +6,5 @@ I document what I learn in each room to build real understanding, not just compl
 
 ### Pre Security Path
 - [x] [Offensive Security Intro]
-- [ ] Defensive Security Intro
-- [ ] Careers in Cyber
+- [x] Defensive Security Intro
+- [x] Careers in Cyber
