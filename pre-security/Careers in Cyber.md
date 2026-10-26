@@ -1,4 +1,4 @@
-# Careers in Cyber
+# Careers-in-Cyber
 
 **Path:** Pre Security
 **Section:** Introduction to Cyber Security
