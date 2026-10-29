@@ -1,1 +1,42 @@
+# Operating Systems: Introduction
 
+**Path:** Free Path (my own order)
+**Date:** [DATE]
+**Room Link:** [Operating Systems: Introduction](PUT-ROOM-LINK-HERE)
+
+## Overview
+
+The operating system (OS) is the layer between the hardware and the applications. It manages everything so programs don't conflict.
+
+## Key Terms
+
+- **OS** = software that manages hardware and lets applications run.
+- **Process** = a program that is currently running.
+- **File system** = how the OS organizes and stores files on a drive.
+- **Authentication** = proving who you are (e.g. a password).
+- **Permissions** = what each user is allowed to do.
+- **Isolation** = keeping programs and users separated from each other.
+
+## What the OS Manages
+
+1. Processes
+2. Memory
+3. File systems
+4. Users
+5. Devices
+
+## Types of OS
+
+| Environment | Examples |
+|---|---|
+| Desktop | Windows, macOS, Linux |
+| Server | Linux, Windows Server |
+| Mobile | Android, iOS |
+| Embedded / IoT | Embedded Linux, RTOS |
+| Virtual / Cloud | Virtual machines, cloud systems |
+
+
+
+## Final Note
+
+[Why does this matter for security? For example: permissions and isolation are what stop one user or program from taking over the whole system.]
